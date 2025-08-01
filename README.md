@@ -13,13 +13,6 @@ his is a CSS-based Sidebar- Menu project built using HTML and CSS. It features a
 
 ---
 
-## 🚀 Live Demo
-
-[Live Demo Link](https://yourusername.github.io/sidebar-menu/)  
-_(Replace with your actual GitHub Pages link once deployed)_
-
----
-
 ## 📁 Project Structure
 
 sidebar-menu/
